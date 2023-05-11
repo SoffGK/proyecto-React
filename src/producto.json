@@ -1,0 +1,40 @@
+  {
+    "palas": [
+      {
+        "id": 1,
+        "category": 4,
+        "img": "https://urichpadel.com/ar/wp-content/uploads/2022/02/BAFFLER-737x800.png",
+        "stock": 5,
+        "title": "Baffler X Soft",
+        "description": "PALETA DE NIVEL MEDIO/PROFESIONAL",
+        "price": "$50.000"
+      },
+      {
+        "id": 2,
+        "category": 4,
+        "img": "https://urichpadel.com/ar/wp-content/uploads/2021/09/VAPOR-XSOFT-737x800.png  ",
+        "stock": 6,
+        "title": "Vapor Xsoft",
+        "description": "NIVEL MEDIO/PROFESIONAL ECONOMICA.",
+        "price": "$40.000"
+      },
+      {
+        "id": 3,
+        "category": 4,
+        "img": "https://vairo.com/padel/wp-content/uploads/2021/02/GRAPHENO-CONFORT-FRENTE-WEB.jpg",
+        "stock": 10,
+        "title": "Grapheno 9.1 Confort",
+        "description": "Amplio punto dulce y forma redonda",
+        "price": "$60.000"
+      },
+      {
+        "id": 4,
+        "category": 4,
+        "img": "https://vairo.com/padel/wp-content/uploads/2023/03/COUMNS-X-FRENTE-WEB-700x700.jpg",
+        "stock": 3,
+        "title": "Columns x",
+        "description": "Potencia y calidad",
+        "price": "$90.000"
+      }
+    ]
+  }
